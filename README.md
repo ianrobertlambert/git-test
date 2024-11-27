@@ -1,3 +1,2 @@
 # git-test
-Learning Git
-Hello Odin!
+Learning Git - Hello Odin!
